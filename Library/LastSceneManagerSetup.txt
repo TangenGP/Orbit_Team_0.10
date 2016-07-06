@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Programmering/Unity 3D/Mobiltest_0.01/Assets/Scenes/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
